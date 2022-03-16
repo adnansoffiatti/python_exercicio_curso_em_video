@@ -1,7 +1,7 @@
 '''
 Crie um programa que leia DOIS VALORES e mostre
 um MENU como ao lado da tela:
-Seu programa deverá realizar a operação 
+Seu programa deverá realizar a operação
 solicitada em cada caso
 
 [ 1 ] Somar
